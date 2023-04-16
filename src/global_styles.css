@@ -1,0 +1,16 @@
+/* Add application styles & imports to this file! */
+.toc-child-selected{
+  background-color: blueviolet;
+}
+
+.data{
+  display:flex;
+  flex-direction: row;
+  column-gap: 20px;
+}
+.content{
+ max-block-size: 700px;
+ padding: 20px;
+ overflow:auto;
+  background-color: blueviolet;
+}
